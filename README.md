@@ -1,3 +1,7 @@
+# 2021년 Computer Vision - ImageCaptioning
+
+영상 : https://www.youtube.com/watch?v=5nq1HSt3i8c
+
 ## 환경 설정
 
 1. 해당 [github](https://github.com/aditya12agd5/convcap) 에서 **Download ZIP**을 클릭하여 다운 받은 후 압축을 풉니다.
